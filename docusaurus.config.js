@@ -1,8 +1,8 @@
 module.exports = {
     title: 'Furion',
     tagline: '让 .NET 开发更简单，更通用，更流行。',
-    url: 'http://furion.github.io',
-    baseUrl: '/',
+    url: 'http://icedmango.github.io',
+    baseUrl: '/furion-doc/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
